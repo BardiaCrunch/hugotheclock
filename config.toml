@@ -1,0 +1,15 @@
+baseURL = "https://BardiaCrunch.github.io/hugotheclock/"
+languageCode = "en-us"
+theme = "glim-midnight"
+
+[params]
+    title = "Glim Midnight"
+    phrases = ["Bootstrap", "Dark", "Minimal", "Responsive"]
+    links = [
+    {name = "Github", url = "https://github.com/mansoorbarri/glim-midnight/"},    
+    {name = "Wiki", url = "https://github.com/mansoorbarri/glim-midnight/wiki"},    
+    {name = "Author I", url = "https://maheenwaris.com/"},    
+    {name = "Author II", url = "https://mansoorbarri.com/"},    
+    {name = "Hugo", url = "https://gohugo.io/"},    
+    ] 
+    background = "bg.mp4"
