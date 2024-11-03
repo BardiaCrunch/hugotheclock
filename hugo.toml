@@ -7,10 +7,10 @@ theme = "glim-midnight"
     title = "Bogos Binted"
     phrases = [" Cope ", " Seethe ", " Mald ", " Ratio "]
     links = [
-#    {name = "Github", url = "https://github.com/mansoorbarri/glim-midnight/"},    
-#    {name = "Wiki", url = "https://github.com/mansoorbarri/glim-midnight/wiki"},    
-#    {name = "Author I", url = "https://maheenwaris.com/"},    
-#    {name = "Author II", url = "https://mansoorbarri.com/"},    
-#    {name = "Hugo", url = "https://gohugo.io/"},    
+    {name = "Github", url = "https://github.com/mansoorbarri/glim-midnight/"},    
+    {name = "Wiki", url = "https://github.com/mansoorbarri/glim-midnight/wiki"},    
+    {name = "Author I", url = "https://maheenwaris.com/"},    
+    {name = "Author II", url = "https://mansoorbarri.com/"},    
+    {name = "Hugo", url = "https://gohugo.io/"},    
     ] 
-    background = "bustaa.mp4"
+    background = "background.mp4"
