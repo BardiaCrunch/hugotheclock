@@ -4,13 +4,12 @@ languageCode = "en-us"
 theme = "glim-midnight"
 
 [params]
-    title = "Bogos Binted"
-    phrases = [" Cope ", " Seethe ", " Mald ", " Ratio "]
+    title = "Bardia-Crunch"
+    phrases = [" GAMEDEV ", " GODOT ", " ART ", " UNITY "]
     links = [
-    {name = "Github", url = "https://github.com/mansoorbarri/glim-midnight/"},    
-    {name = "Wiki", url = "https://github.com/mansoorbarri/glim-midnight/wiki"},    
-    {name = "Author I", url = "https://maheenwaris.com/"},    
-    {name = "Author II", url = "https://mansoorbarri.com/"},    
-    {name = "Hugo", url = "https://gohugo.io/"},    
+    {name = "Github", url = "https://github.com/BardiaCrunch"},    
+    {name = "Itch.io", url = "https://bardia-crunch.itch.io"},
+
+    {name = "Bluesky", url = "https://bsky.app/profile/bardia-crunch.bsky.social"}
     ] 
-    background = "background.mp4"
+    background = "blank.mp4"
