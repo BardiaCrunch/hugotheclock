@@ -6,15 +6,37 @@
 }
 
 .mainbg {
-    height: auto;
+    overflow: hidden;
+    /*height: auto;*/
 }
 
-.mainbg video {
+/*.mainbg video {
     width: 100vw;
     height: 100vh;
     object-fit: cover;
     position: fixed;
     z-index: -1;
+}*/
+
+#sliding-background {
+    width: 100vw;
+    height: 100vh;
+    background-color: #28008a;
+    background-image: url(../website-bg-bigga.png);
+    background-position: 0% 0%;
+    background-size: 50%;
+    animation: slide 60s linear infinite;
+    z-index: -1;
+    position: fixed;
+}
+
+@keyframes slide{
+    0%{
+        background-position: 0 0;
+    }
+    100%{
+        background-position: 1692px 1692px;
+    }
 }
 
 .content {
@@ -69,6 +91,10 @@
 
 .btn-outline-light {
     border-color: #00ff00;
+}
+
+.btn {
+    background-color: #0052008a;
 }
 
 .contentbtn button:hover,
